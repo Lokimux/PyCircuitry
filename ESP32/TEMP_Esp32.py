@@ -14,8 +14,8 @@ SSID = "lokimux"  # Replace with your Wi-Fi SSID
 PASSWORD = "11072004"  # Replace with your Wi-Fi password
 
 # Telegram Bot Configuration
-BOT_TOKEN = "7447852497:AAEDPetIQxtYfJdKdh7nnJXSuAdoTqcramk"  # Replace with your Telegram bot token
-CHAT_ID = "1706011784"  # Replace with your chat ID
+BOT_TOKEN = "bot_token"  # Replace with your Telegram bot token
+CHAT_ID = "your_chat_id"  # Replace with your chat ID
 TELEGRAM_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 
 # Function to connect to Wi-Fi
